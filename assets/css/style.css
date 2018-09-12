@@ -1,0 +1,22 @@
+body {
+    background: url("../images/eagles.jpg") center fixed;
+       background-size: cover;
+       padding-left: 15px;          
+}
+h1 {
+   text-align: left;
+   padding-left: 15px;
+   padding-top: 15px;
+   
+}
+h2 {
+   padding-top: 25px;
+  
+   
+}
+#gifArea {
+   display: inline;
+   margin: 4px 5px 4px 5px;  
+   
+
+}
